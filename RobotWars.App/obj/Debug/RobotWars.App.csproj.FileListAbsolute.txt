@@ -1,0 +1,34 @@
+c:\users\maciejba.orca\documents\visual studio 2015\Projects\RobotWars\RobotWars.App\bin\Debug\RobotWars.App.exe.config
+c:\users\maciejba.orca\documents\visual studio 2015\Projects\RobotWars\RobotWars.App\bin\Debug\RobotWars.App.exe
+c:\users\maciejba.orca\documents\visual studio 2015\Projects\RobotWars\RobotWars.App\bin\Debug\RobotWars.App.pdb
+c:\users\maciejba.orca\documents\visual studio 2015\Projects\RobotWars\RobotWars.App\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+c:\users\maciejba.orca\documents\visual studio 2015\Projects\RobotWars\RobotWars.App\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+c:\users\maciejba.orca\documents\visual studio 2015\Projects\RobotWars\RobotWars.App\bin\Debug\Microsoft.Practices.Unity.dll
+c:\users\maciejba.orca\documents\visual studio 2015\Projects\RobotWars\RobotWars.App\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+c:\users\maciejba.orca\documents\visual studio 2015\Projects\RobotWars\RobotWars.App\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+c:\users\maciejba.orca\documents\visual studio 2015\Projects\RobotWars\RobotWars.App\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+c:\users\maciejba.orca\documents\visual studio 2015\Projects\RobotWars\RobotWars.App\bin\Debug\Microsoft.Practices.Unity.xml
+c:\users\maciejba.orca\documents\visual studio 2015\Projects\RobotWars\RobotWars.App\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+c:\users\maciejba.orca\documents\visual studio 2015\Projects\RobotWars\RobotWars.App\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+c:\users\maciejba.orca\documents\visual studio 2015\Projects\RobotWars\RobotWars.App\obj\Debug\RobotWars.App.csprojResolveAssemblyReference.cache
+c:\users\maciejba.orca\documents\visual studio 2015\Projects\RobotWars\RobotWars.App\obj\Debug\RobotWars.App.exe
+c:\users\maciejba.orca\documents\visual studio 2015\Projects\RobotWars\RobotWars.App\obj\Debug\RobotWars.App.pdb
+C:\Users\maciejba.ORCA\documents\visual studio 2015\Projects\RobotWars\RobotWars.App\bin\Debug\RobotWars.dll
+C:\Users\maciejba.ORCA\documents\visual studio 2015\Projects\RobotWars\RobotWars.App\bin\Debug\RobotWars.pdb
+E:\RobotWars\RobotWars\RobotWars.App\bin\Debug\RobotWars.App.exe.config
+E:\RobotWars\RobotWars\RobotWars.App\obj\Debug\RobotWars.App.exe
+E:\RobotWars\RobotWars\RobotWars.App\obj\Debug\RobotWars.App.pdb
+E:\RobotWars\RobotWars\RobotWars.App\bin\Debug\RobotWars.App.exe
+E:\RobotWars\RobotWars\RobotWars.App\bin\Debug\RobotWars.App.pdb
+E:\RobotWars\RobotWars\RobotWars.App\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\RobotWars\RobotWars\RobotWars.App\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+E:\RobotWars\RobotWars\RobotWars.App\bin\Debug\Microsoft.Practices.Unity.dll
+E:\RobotWars\RobotWars\RobotWars.App\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+E:\RobotWars\RobotWars\RobotWars.App\bin\Debug\RobotWars.dll
+E:\RobotWars\RobotWars\RobotWars.App\bin\Debug\RobotWars.pdb
+E:\RobotWars\RobotWars\RobotWars.App\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+E:\RobotWars\RobotWars\RobotWars.App\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+E:\RobotWars\RobotWars\RobotWars.App\bin\Debug\Microsoft.Practices.Unity.xml
+E:\RobotWars\RobotWars\RobotWars.App\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+E:\RobotWars\RobotWars\RobotWars.App\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+E:\RobotWars\RobotWars\RobotWars.App\obj\Debug\RobotWars.App.csprojResolveAssemblyReference.cache

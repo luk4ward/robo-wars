@@ -1,0 +1,10 @@
+C:\Users\maciejba.ORCA\documents\visual studio 2015\Projects\RobotWars\RobotWars\bin\Debug\RobotWars.dll
+C:\Users\maciejba.ORCA\documents\visual studio 2015\Projects\RobotWars\RobotWars\bin\Debug\RobotWars.pdb
+C:\Users\maciejba.ORCA\documents\visual studio 2015\Projects\RobotWars\RobotWars\obj\Debug\RobotWars.dll
+C:\Users\maciejba.ORCA\documents\visual studio 2015\Projects\RobotWars\RobotWars\obj\Debug\RobotWars.pdb
+C:\Users\maciejba.ORCA\documents\visual studio 2015\Projects\RobotWars\RobotWars\obj\Debug\RobotWars.csprojResolveAssemblyReference.cache
+E:\RobotWars\RobotWars\RobotWars\bin\Debug\RobotWars.dll
+E:\RobotWars\RobotWars\RobotWars\bin\Debug\RobotWars.pdb
+E:\RobotWars\RobotWars\RobotWars\obj\Debug\RobotWars.dll
+E:\RobotWars\RobotWars\RobotWars\obj\Debug\RobotWars.pdb
+E:\RobotWars\RobotWars\RobotWars\obj\Debug\RobotWars.csprojResolveAssemblyReference.cache

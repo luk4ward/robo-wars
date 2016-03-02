@@ -1,0 +1,15 @@
+E:\RobotWars\RobotWars\RobotWars.Acceptance\bin\Debug\RobotWars.Acceptance.dll
+E:\RobotWars\RobotWars\RobotWars.Acceptance\bin\Debug\RobotWars.Acceptance.pdb
+E:\RobotWars\RobotWars\RobotWars.Acceptance\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\RobotWars\RobotWars\RobotWars.Acceptance\bin\Debug\RobotWars.App.exe
+E:\RobotWars\RobotWars\RobotWars.Acceptance\bin\Debug\Microsoft.Practices.Unity.dll
+E:\RobotWars\RobotWars\RobotWars.Acceptance\bin\Debug\RobotWars.dll
+E:\RobotWars\RobotWars\RobotWars.Acceptance\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\RobotWars\RobotWars\RobotWars.Acceptance\bin\Debug\RobotWars.App.pdb
+E:\RobotWars\RobotWars\RobotWars.Acceptance\bin\Debug\Microsoft.Practices.Unity.xml
+E:\RobotWars\RobotWars\RobotWars.Acceptance\bin\Debug\RobotWars.pdb
+E:\RobotWars\RobotWars\RobotWars.Acceptance\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+E:\RobotWars\RobotWars\RobotWars.Acceptance\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+E:\RobotWars\RobotWars\RobotWars.Acceptance\obj\Debug\RobotWars.Acceptance.csprojResolveAssemblyReference.cache
+E:\RobotWars\RobotWars\RobotWars.Acceptance\obj\Debug\RobotWars.Acceptance.dll
+E:\RobotWars\RobotWars\RobotWars.Acceptance\obj\Debug\RobotWars.Acceptance.pdb

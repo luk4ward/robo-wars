@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RobotWars.App", "RobotWars.App\RobotWars.App.csproj", "{09C1A6A0-2BD8-442A-8DA2-FAE05837DAC1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RobotWars.Tests", "RobotWars.Tests\RobotWars.Tests.csproj", "{DD25BA1D-1BCD-4721-B76B-34EE9EF62237}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RobotWars", "RobotWars\RobotWars.csproj", "{64DDAA8C-E99A-4BFD-AD47-E992A5E81D22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RobotWars.Acceptance", "RobotWars.Acceptance\RobotWars.Acceptance.csproj", "{3B64D23C-625E-4D9E-A368-862E82E7F826}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09C1A6A0-2BD8-442A-8DA2-FAE05837DAC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09C1A6A0-2BD8-442A-8DA2-FAE05837DAC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09C1A6A0-2BD8-442A-8DA2-FAE05837DAC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09C1A6A0-2BD8-442A-8DA2-FAE05837DAC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD25BA1D-1BCD-4721-B76B-34EE9EF62237}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD25BA1D-1BCD-4721-B76B-34EE9EF62237}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD25BA1D-1BCD-4721-B76B-34EE9EF62237}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD25BA1D-1BCD-4721-B76B-34EE9EF62237}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64DDAA8C-E99A-4BFD-AD47-E992A5E81D22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64DDAA8C-E99A-4BFD-AD47-E992A5E81D22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64DDAA8C-E99A-4BFD-AD47-E992A5E81D22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64DDAA8C-E99A-4BFD-AD47-E992A5E81D22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B64D23C-625E-4D9E-A368-862E82E7F826}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B64D23C-625E-4D9E-A368-862E82E7F826}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B64D23C-625E-4D9E-A368-862E82E7F826}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B64D23C-625E-4D9E-A368-862E82E7F826}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

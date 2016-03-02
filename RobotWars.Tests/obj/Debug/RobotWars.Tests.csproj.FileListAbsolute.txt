@@ -1,0 +1,41 @@
+C:\Users\maciejba.ORCA\documents\visual studio 2015\Projects\RobotWars\RobotWars.Tests\bin\Debug\RobotWars.Tests.dll
+C:\Users\maciejba.ORCA\documents\visual studio 2015\Projects\RobotWars\RobotWars.Tests\bin\Debug\RobotWars.Tests.pdb
+C:\Users\maciejba.ORCA\documents\visual studio 2015\Projects\RobotWars\RobotWars.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\maciejba.ORCA\documents\visual studio 2015\Projects\RobotWars\RobotWars.Tests\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\maciejba.ORCA\documents\visual studio 2015\Projects\RobotWars\RobotWars.Tests\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\maciejba.ORCA\documents\visual studio 2015\Projects\RobotWars\RobotWars.Tests\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\maciejba.ORCA\documents\visual studio 2015\Projects\RobotWars\RobotWars.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\maciejba.ORCA\documents\visual studio 2015\Projects\RobotWars\RobotWars.Tests\bin\Debug\Moq.dll
+C:\Users\maciejba.ORCA\documents\visual studio 2015\Projects\RobotWars\RobotWars.Tests\bin\Debug\RobotWars.App.exe
+C:\Users\maciejba.ORCA\documents\visual studio 2015\Projects\RobotWars\RobotWars.Tests\bin\Debug\RobotWars.dll
+C:\Users\maciejba.ORCA\documents\visual studio 2015\Projects\RobotWars\RobotWars.Tests\bin\Debug\RobotWars.App.pdb
+C:\Users\maciejba.ORCA\documents\visual studio 2015\Projects\RobotWars\RobotWars.Tests\bin\Debug\RobotWars.pdb
+C:\Users\maciejba.ORCA\documents\visual studio 2015\Projects\RobotWars\RobotWars.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\maciejba.ORCA\documents\visual studio 2015\Projects\RobotWars\RobotWars.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\maciejba.ORCA\documents\visual studio 2015\Projects\RobotWars\RobotWars.Tests\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\maciejba.ORCA\documents\visual studio 2015\Projects\RobotWars\RobotWars.Tests\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\maciejba.ORCA\documents\visual studio 2015\Projects\RobotWars\RobotWars.Tests\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\maciejba.ORCA\documents\visual studio 2015\Projects\RobotWars\RobotWars.Tests\bin\Debug\Moq.xml
+C:\Users\maciejba.ORCA\documents\visual studio 2015\Projects\RobotWars\RobotWars.Tests\obj\Debug\RobotWars.Tests.csprojResolveAssemblyReference.cache
+C:\Users\maciejba.ORCA\documents\visual studio 2015\Projects\RobotWars\RobotWars.Tests\obj\Debug\RobotWars.Tests.dll
+C:\Users\maciejba.ORCA\documents\visual studio 2015\Projects\RobotWars\RobotWars.Tests\obj\Debug\RobotWars.Tests.pdb
+E:\RobotWars\RobotWars\RobotWars.Tests\bin\Debug\RobotWars.Tests.dll
+E:\RobotWars\RobotWars\RobotWars.Tests\bin\Debug\RobotWars.Tests.pdb
+E:\RobotWars\RobotWars\RobotWars.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\RobotWars\RobotWars\RobotWars.Tests\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+E:\RobotWars\RobotWars\RobotWars.Tests\bin\Debug\Microsoft.Practices.Unity.dll
+E:\RobotWars\RobotWars\RobotWars.Tests\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+E:\RobotWars\RobotWars\RobotWars.Tests\bin\Debug\Moq.dll
+E:\RobotWars\RobotWars\RobotWars.Tests\bin\Debug\RobotWars.App.exe
+E:\RobotWars\RobotWars\RobotWars.Tests\bin\Debug\RobotWars.dll
+E:\RobotWars\RobotWars\RobotWars.Tests\bin\Debug\RobotWars.App.pdb
+E:\RobotWars\RobotWars\RobotWars.Tests\bin\Debug\RobotWars.pdb
+E:\RobotWars\RobotWars\RobotWars.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+E:\RobotWars\RobotWars\RobotWars.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+E:\RobotWars\RobotWars\RobotWars.Tests\bin\Debug\Microsoft.Practices.Unity.xml
+E:\RobotWars\RobotWars\RobotWars.Tests\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+E:\RobotWars\RobotWars\RobotWars.Tests\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+E:\RobotWars\RobotWars\RobotWars.Tests\bin\Debug\Moq.xml
+E:\RobotWars\RobotWars\RobotWars.Tests\obj\Debug\RobotWars.Tests.csprojResolveAssemblyReference.cache
+E:\RobotWars\RobotWars\RobotWars.Tests\obj\Debug\RobotWars.Tests.dll
+E:\RobotWars\RobotWars\RobotWars.Tests\obj\Debug\RobotWars.Tests.pdb
